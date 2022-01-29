@@ -10,7 +10,7 @@ Datasets and its description are available at the official website of this chall
 # Repository Structure:
 1. Notebook for exploratory data analysis
 2. Notebook for feature engineering and modeling
-3. A report(Chinese, English version might be available in the future) for impelemental details and analysis for this program 
+3. A report(Chinese, English version might be available in the future) for impelemental details and analysis for this project
 
 # Note:
 All codes are for reference only and shall not be used for commercial purposes without permission.
