@@ -16,4 +16,4 @@ Datasets and its description are available at the official website of this chall
 
 # Note:
 All codes are for reference only and shall not be used for commercial purposes without permission.
-If you have any questions about the code, please contact: hehaorui11@gmail.com
+If you have any questions about the code, please contact: hehaorui11 at gmail dot com
